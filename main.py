@@ -1,6 +1,6 @@
-from encrypt import encrypt_file
-from decrypt import decrypt_file# Bu dosya programin ana giris noktasi olacak
-# Menu ve kullanici secimleri buradan yonetilecek
+# from encrypt import encrypt_file
+# from decrypt import decrypt_file
+
 print("1 - Dosya Şifrele")
 print("2 - Dosya Çöz")
 print("3 - Çıkış")
