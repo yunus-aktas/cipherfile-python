@@ -1,2 +1,2 @@
-# Bu dosya sifre cozme (decrypt) islemlerini icerecek
-# Sifrelenmis dosyalar burada cozulcek
+def decrypt_file():
+    print("⚠️ Şifre çözme özelliği henüz hazır değil!")
