@@ -114,9 +114,9 @@ Bu bir test dosyasidir
 ---
 
 ## 👨‍💻 Geliştirici
-Yunus Aktaş
-Alperen Tuna
-Şevval Tuana Kaya
+Yunus Aktaş,
+Alperen Tuna,
+Şevval Tuana Kaya,
 Ravzanur Tümer
 
 Bu proje eğitim amaçlı geliştirilmiştir.
