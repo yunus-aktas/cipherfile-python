@@ -1,16 +1,15 @@
 def decrypt_file():
     dosya_adi = input("Çözülecek dosya adını girin: ")
 
-    # 🚀 İŞTE PROFESYONEL HATA YAKALAMA KISMI
+    # HATA YAKALAMA KISMI (TRY - EXCEPT)
     try:
         with open(dosya_adi, "r", encoding="utf-8") as dosya:
             metin = dosya.read()
     except FileNotFoundError:
         print(f"\n⚠️ HATA: Klasörde '{dosya_adi}' adında bir dosya bulunamadı!")
         print("💡 İpucu: Dosya adını yanlış yazmış olabilirsiniz veya henüz şifreleme yapmamış olabilirsiniz.\n")
-        return  # Program çökmesin diye işlemi iptal edip menüye döndürüyoruz
+        return # Hata varsa aşağıya inme, menüye dön
 
-    # Eğer dosya varsa, hata vermediyse buradan devam edecek:
     anahtar = int(input("Kaydırma anahtarını girin: "))
     cozulen_metin = ""
 
