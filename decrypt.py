@@ -10,7 +10,11 @@ def decrypt_file():
         print("💡 İpucu: Dosya adını yanlış yazmış olabilirsiniz veya henüz şifreleme yapmamış olabilirsiniz.\n")
         return # Hata varsa aşağıya inme, menüye dön
 
+    try:
     anahtar = int(input("Kaydırma anahtarını girin: "))
+except ValueError:
+    print("\n⚠️ HATA: Anahtar sayı olmalıdır!\n")
+    return
     cozulen_metin = ""
 
     for karakter in metin:
