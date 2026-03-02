@@ -1,2 +1,29 @@
-Merhaba Dunya
-Bu bir test dosyasidir
+CLASSIFIED DOCUMENT
+SECURITY LEVEL: TOP SECRET
+AUTHORIZED PERSONNEL ONLY
+
+Kod Adı: Project Eclipse
+Durum: Aktif
+Yetki Seviyesi: En Üst
+
+GİZLİ OPERASYON RAPORU
+
+Gece yarısına yakın saatlerde sistem gözetim birimi tarafından olağandışı bir veri hareketliliği tespit edilmiştir. Veri akışının kaynağı doğrudan belirlenememiş, ancak sinyalin iç ağ katmanlarını bilinçli şekilde maskeleyerek ilerlediği anlaşılmıştır.
+
+Yapılan ön incelemede, veri paketinin standart şifreleme yöntemleri yerine dinamik bir kaydırma mantığı kullandığı görülmüştür. Algoritma, belirli aralıklarla anahtar değiştirerek çözümleme girişimlerini yanıltmaktadır. Ayrıca sahte veri katmanları eklenmiş ve gerçek içeriğin tespiti zorlaştırılmıştır.
+
+Sistem güvenlik protokolü devreye alınmış, izinsiz erişim ihtimaline karşı tüm geçiş noktaları denetim altına alınmıştır. Ancak sinyalin bilinçli olarak içeriden yönlendirilmiş olabileceği ihtimali değerlendirme altındadır.
+
+Meta analiz sonuçları, veri içinde stratejik planlara, konum bilgilerine ve erişim protokollerine dair ipuçları bulunduğunu göstermektedir. İçeriğin tamamı henüz çözülememiştir.
+
+TALİMAT
+
+Bu belge yalnızca yetkili personel tarafından incelenecektir.
+Yetkisiz paylaşım kesinlikle yasaktır.
+Belge dijital ortamda saklanmayacak, yalnızca güvenli terminal üzerinden görüntülenecektir.
+
+NOT:
+Bu belgeye erişim sağladıysanız sistem sizi yetkili olarak tanımlamıştır.
+Erişim kayıt altına alınmıştır.
+
+— END OF FILE —
